@@ -1,0 +1,8 @@
+Az Elek Ignác archívum átmentése
+Forrás: elekweb.zip, az eredeti index.html alapján.
+40 MP3 a media/ könyvtárban.
+111 PNG az archive-images/ könyvtárban (köztük elek1.png portré).
+A rejtvényképek az eredeti HTML képsorrendjében szerepelnek.
+Az eredeti megfejtesek.odt a documents/ könyvtárban.
+A főoldal index.html változatlan.
+A külső könyvhivatkozások külső weboldalakra mutatnak.
